@@ -28,6 +28,7 @@ namespace ProjecT
             else
             {
                 x = (a - 5) / b;
+                Console.WriteLine("xoy");
             }
 
             Console.WriteLine("Значение X равно " + x);
